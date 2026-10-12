@@ -1,3 +1,5 @@
 # MikroTik central blacklist
-# One IPv4 address or CIDR network per line.
-# Lines starting with # are comments.
+# Generated automatically from Fail2ban
+# Updated: 2026-10-12 22:12:24
+
+34.140.60.136
