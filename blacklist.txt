@@ -1,0 +1,3 @@
+# MikroTik central blacklist
+# One IPv4 address or CIDR network per line.
+# Lines starting with # are comments.
