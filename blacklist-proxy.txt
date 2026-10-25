@@ -1,10 +1,12 @@
 # MikroTik central blacklist
 # Source: proxy
 # Generated automatically from Fail2ban
-# Updated: 2026-10-25 14:40:01
+# Updated: 2026-10-25 16:30:01
 
 136.70.122.110
+151.18.163.146
 20.194.0.112
 34.35.55.166
+45.138.12.142
 52.231.25.234
 77.90.185.122
