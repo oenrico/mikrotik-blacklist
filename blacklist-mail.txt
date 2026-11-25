@@ -1,12 +1,11 @@
 # MikroTik central blacklist
 # Source: mail
 # Generated automatically from Fail2ban
-# Updated: 2026-11-25 18:45:01
+# Updated: 2026-11-25 19:35:02
 
 121.40.169.144
 129.148.40.20
 139.144.160.162
-143.198.187.252
 178.128.144.90
 185.180.141.47
 195.184.76.45
